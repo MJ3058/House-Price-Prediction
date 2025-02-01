@@ -1,0 +1,8 @@
+# Required libraires to open this project
+
+- pandas
+- numpy
+- scikit-learn
+- seaborn
+- joblib
+- matplotlib
